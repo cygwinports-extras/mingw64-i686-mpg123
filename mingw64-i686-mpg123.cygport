@@ -2,7 +2,7 @@ CROSS_HOST="i686-w64-mingw32"
 inherit cross
 
 NAME="mingw64-i686-mpg123"
-VERSION=1.25.0
+VERSION=1.25.6
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="MPEG audio decoder for Win32 platform"
